@@ -1,1 +1,9 @@
 # AOC2020
+
+## Notes
+
+- Day 1: figuring out IO was fun 😂
+- Day 2: learning about records would make this more readable
+- Day 3: so happy to use pattern matching again ☺️
+- Day 4: TIL importing stuff, TIL `Maybe T`
+- Day 5: Straighforward. I feel like how my expressions are written could be really improved. Args separated by spaces but without surrounding `()` like in Lisp feels really weird.
