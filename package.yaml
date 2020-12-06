@@ -23,6 +23,7 @@ dependencies:
   - base >= 4.7 && < 5
   - split
   - regex-pcre
+  - containers
 
 library:
   source-dirs: src
