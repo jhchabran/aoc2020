@@ -24,6 +24,7 @@ dependencies:
   - split
   - regex-pcre
   - containers
+  - vector
 
 library:
   source-dirs: src
